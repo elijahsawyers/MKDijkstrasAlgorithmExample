@@ -8,6 +8,7 @@
 
 import UIKit
 import MapKit
+import MKDijkstrasAlgorithm
 
 /**
     Interacts with Dijkstra's algorithm framework and displays the results in the MKMapView.

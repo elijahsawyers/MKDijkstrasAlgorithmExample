@@ -1,0 +1,11 @@
+framework module MKDijkstrasAlgorithm {
+  umbrella header "MKDijkstrasAlgorithm.h"
+
+  export *
+  module * { export * }
+}
+
+module MKDijkstrasAlgorithm.Swift {
+    header "MKDijkstrasAlgorithm-Swift.h"
+    requires objc
+}

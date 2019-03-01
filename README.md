@@ -1,6 +1,6 @@
 # MKDijkstrasAlgorithmExample
 
-This is an example application of how to use the [MKDijkstrasAlgorithm](https://github.com/elijahsawyers) framework.  
+A sample application of how to use the [MKDijkstrasAlgorithm](https://github.com/elijahsawyers) framework.  
 
 ## Authors
 

@@ -1,6 +1,10 @@
 # MKDijkstrasAlgorithmExample
 
-A sample application of how to use the [MKDijkstrasAlgorithm](https://github.com/elijahsawyers) framework.  
+A simple iOS application showing how to use Dijkstra's algorithm with MapKit. 
+
+## Built With
+
+* [MKDijkstrasAlgorithm](https://github.com/elijahsawyers) - Cocoa Touch Framework to perform Dijkstra's algorithm on a weighted, directional graph with MKMapPoints as nodes.
 
 ## Authors
 
